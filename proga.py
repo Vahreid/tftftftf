@@ -16,3 +16,5 @@ while n1 != n:
         bills.append(money[i])
 
 print(bills)
+
+#ебала жаба гадюку!!!
